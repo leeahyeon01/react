@@ -1,0 +1,8 @@
+import React from "react";
+
+const About = () => {
+  //컴포넌트
+  return <h1> about 화면입니다</h1>;
+};
+
+export default About;
